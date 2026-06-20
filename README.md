@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Software Developer | Frontend Developer</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
+<h1 align="left">Hi 👋, I'm Software Developer | Frontend Developer</h1>
+<h3 align="left">A passionate Frontend Developer from Pakistan</h3>
 
 - 👨‍💻 All of my projects are available at [https://aneezarana.github.io/](https://aneezarana.github.io/)
 
